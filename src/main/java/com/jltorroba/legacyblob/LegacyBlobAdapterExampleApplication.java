@@ -1,4 +1,4 @@
-package com.edicom.legacyblob;
+package com.jltorroba.legacyblob;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

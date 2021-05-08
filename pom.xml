@@ -8,11 +8,10 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.edicom</groupId>
+	<groupId>com.jltorroba</groupId>
 	<artifactId>legacy-blob-adapter-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>legacy-blob-adapter-example</name>
-	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
